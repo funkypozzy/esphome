@@ -7,7 +7,7 @@
 
 #include "esphome/core/application.h"
 #include "esphome/core/log.h"
-#include <Time.h>
+#include "esphome/core/time.h"
 #include "esphome/components/network/util.h"
 
 #include <esp_err.h>
